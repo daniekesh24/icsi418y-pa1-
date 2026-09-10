@@ -7,7 +7,7 @@ Daniel Nwoye
 My Task List
 
 ## Description
-My Task List is a simple interactive web application that allows users to add and manage tasks. Users can enter a task, select a priority, mark a task as completed, and delete a task.
+My Task List is a simple interactive web application that allows users to add and manage tasks. Users can enter a task, select a priority, mark a task as completed, and delete tasks.
 
 ## How to Run
 1. Open the project folder.
